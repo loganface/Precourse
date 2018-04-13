@@ -1,0 +1,5 @@
+  Variable: something that holds other numbers or words in it
+  String: a word or sentence in quotation marks
+  Function: instructions to do a specific thing with code
+  If statements: a sentence that says you can only do something if something else has happened first
+  Boolean values: an equation that is either true or false
